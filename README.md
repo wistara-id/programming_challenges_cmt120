@@ -1,2 +1,2 @@
-# programming_challenges_cmt120
+# CMT120 - Programming Challenges
 Submitted work on CMT120 - Programming Challenges
